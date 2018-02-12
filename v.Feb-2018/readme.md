@@ -1,0 +1,68 @@
+
+# React.js Top 10 Articles for the Past Month (v.Feb 2018)
+
+<img src="feb-react.png" width="800" alt="Mybridge"></a>
+
+For the past month, we ranked nearly 1,100 React.js articles to pick the Top 10 stories that can help advance your career (0.9% chance).
+ 
+* Topics in this list: Architecture, Immutability, setState, Performance, HTML, Server Rendering, Nested Routes, Lazy Loading.
+* Also published on the [publication](https://goo.gl/xG3VYf)
+
+<br>
+
+#### Course of the month:
+
+[A) React Native:](http://bit.ly/2EXg3Zu) The Practical Guide to React Native. Build native iOS and Android Apps. [5,346 recommends, 4.8/5 stars]
+
+[B) React:](http://bit.ly/2nUrs5a) Master the fundamentals of React & Redux and develop apps with Router, Webpack, and ES6. [87,635 recommends, 4.6/5 stars]
+
+<br>
+
+
+## Rank 1
+### [React, Redux and JavaScript Architecture](https://goo.gl/3xSenN)
+
+<br>
+
+## Rank 2
+### [Introducing Immer: Immutability the easy way](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 3
+### [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 4
+### [Common React Questions & Answers](https://academind.com/learn/react/react-q-a?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 5
+### [Why is `setState` asynchronous? Scroll down to see the answer by Dan Abramov](https://github.com/facebook/react/issues/11527?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 6
+### [Dragging React performance forward](https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 7
+### [React and HTML : Beware of the traps](http://blog.theodo.fr/2018/01/react-html-beware-traps?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 8
+### [Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 9
+### [Create Guten Block Toolkit: Create React gutenblocks with zero-config JavaScript toolkit.](https://ahmadawais.com/create-guten-block-toolkit?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 10
+### [Nested routes with React Router v4](https://tylermcginnis.com/react-router-nested-routes?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
