@@ -9,8 +9,9 @@ Every month, about 1,000 ~ 1,500 articles, specific to React.js, are compared an
 Also published on Mybridge Publication
 
 ## Monthly Series:
-* [v.Feb 2018 - Top 10 React.js Articles](https://github.com/Mybridge/react-articles/blob/master/src/02-2018.md)
-* [v.Mar 2018 - Top 10 React.js Articles](https://github.com/Mybridge/react-articles/blob/master/src/03-2018.md)
+* [v.Feb 2018 - Top 10 React.js Articles](./src/02-2018.md)
+* [v.Mar 2018 - Top 10 React.js Articles](./src/03-2018.md)
+* [v.Apr 2018 - Top 10 React.js Articles](./src/04-2018.md)
 
 <br>
 
