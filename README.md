@@ -19,6 +19,7 @@ Also published on Mybridge Publication
 * [v.Sep 2018 - Top 10 React.js Articles](./src/09-2018.md)
 * [v.Oct 2018 - Top 10 React.js Articles](./src/10-2018.md)
 * [v.Nov 2018 - Top 10 React.js Articles](./src/11-2018.md)
+* [v.Dec 2018 - Top 10 React.js Articles](./src/12-2018.md)
 
 <br>
 
